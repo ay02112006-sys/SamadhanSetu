@@ -1,3 +1,4 @@
+"use client";
 // src/components/ui/Sidebar.tsx
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
